@@ -1,0 +1,6 @@
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\ApiClientesApplication.java
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\config\SwaggerConfig.java
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\controller\clienteController.java
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\model\Cliente.java
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\repository\ClienteRepository.java
+D:\API CLIENTE\api-clientes\src\main\java\com\example\api\clientes\service\ClienteService.java
